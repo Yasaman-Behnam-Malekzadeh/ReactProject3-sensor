@@ -1,0 +1,14 @@
+@import "bootstrap/dist/css/bootstrap.css";
+
+.App {
+  min-height: 100vh;
+}
+
+.App .container{
+  min-height: 100vh;
+}
+
+.App .container .row{
+  min-height: 100%;
+}
+
